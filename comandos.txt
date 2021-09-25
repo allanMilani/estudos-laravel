@@ -1,0 +1,13 @@
+php artisan serve -> iniciar o servidor do laravel
+
+php artisan make:controller <Nome Controller> -> criar um controller para a aplicação
+
+php artisan make:model <Nome Model> -> cria um model
+
+php artisan migrate -> cria uma migração para o banco de dados
+
+php artisan make:migration <Nome migration> -> cria uma migration
+
+php artisan migrate:status -> exibe o status das migrations
+
+php artisan migrate:fresh -> apaga as migrations e executa novamente
